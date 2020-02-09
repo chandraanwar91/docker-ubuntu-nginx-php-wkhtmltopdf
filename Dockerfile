@@ -1,4 +1,4 @@
-FROM chandraanwar91/ubuntu-nginx-php
+FROM chandraanwar91/docker-ubuntu-nginx-php
 
 MAINTAINER chandraanwar91 <chandraanwar91@gmail.com>
 
